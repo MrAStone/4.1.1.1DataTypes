@@ -91,7 +91,7 @@ namespace _4._1._1._1DataTypes
             ////////}
 
             Town t;
-            t.TownName = "Hekcmondwike";
+            t.TownName = "Heckmondwike";
             t.Population = 12343;
             t.Area = 3.1414;
             t.County = "West Yorkshire";
